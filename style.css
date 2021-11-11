@@ -105,7 +105,7 @@ footer #pedir button:hover {
   opacity: 0.9;
 }
 
-@media screen and (max-width: 360px) and (max-height: 640px){
+@media screen and (max-width: 380px) and (max-height: 660px){
   nav .navbar {
     background-color: #e2d9dd;
     color: black;
